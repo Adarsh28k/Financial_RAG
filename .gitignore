@@ -1,0 +1,28 @@
+# Virtual environments
+venv/
+venv311/
+env/
+ENV/
+
+# Pre-trained models
+all-MiniLM-L12-v2/
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.egg-info/
+.Python
+
+# OS files
+.DS_Store
+.env
+.env.local
+
+*.ipynb
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
