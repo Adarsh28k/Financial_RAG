@@ -1,0 +1,8 @@
+docling==2.113.0
+faiss-cpu==1.14.3
+numpy==2.4.6
+torch==2.13.0
+sentence-transformers==5.6.0
+requests==2.34.2
+pandas==3.0.3
+ipykernel==7.3.0
